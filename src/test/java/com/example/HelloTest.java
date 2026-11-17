@@ -6,6 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class HelloTest {
     @Test
     void addsUp() {
-        assertEquals(5, 2 + 2);
+        assertEquals(4, 2 + 2);
     }
 }
